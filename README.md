@@ -21,4 +21,4 @@ Steps are:
 $ python test.py
   Point(1, 2)
   Point(3, 4)
-``
+```
